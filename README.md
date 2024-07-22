@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about C++, C, Java, and Full Stack 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-
 ## 🔭 Projects
 
 ### [Language Hub](https://github.com/ansh-vashisht/LangHub.github.io)
@@ -45,9 +44,15 @@ Feel free to reach out to me:
 - **LinkedIn**: [Ansh Vashisht](https://www.linkedin.com/in/ansh-vashisht-1759681ba/)
 - **LeetCode**: [ansh-vashisht](https://leetcode.com/u/ansh-vashisht/)
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-vashisht&show_icons=true&theme=radical)
+## 📈 Profile Visits
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ansh-vashisht)
+
+## ✨ Quote
+
+"The best way to predict the future is to invent it." - Alan Kay
+
 
 ## 💻 Languages Used
 
